@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HeavyNotFat/Agentic-AI-Desktop-Pet](https://github.com/HeavyNotFat/Agentic-AI-Desktop-Pet)
 
-- 📝 I regularly write articles on [http://nekocode.top](http://nekocode.top)
+- 📝 My official website [http://www.cqjszx.cn](http://cqjszx.cn)
 
 - 💬 Ask me about **Python and Development**
 
-- 📫 How to reach me **pysakura0000@qq.com**
+- 📫 How to reach me **chocola@cqjszx.cn**
 
 - ⚡ Fun fact **Funny**
 
